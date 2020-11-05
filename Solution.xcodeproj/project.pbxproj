@@ -6,11 +6,26 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		12DF8AE92553456D00F29B40 /* ReadME.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ReadME.txt; sourceTree = "<group>"; };
+		12DF8AEA25534B7000F29B40 /* Solution.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = Solution.java; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		12DF8ADC2552614700F29B40 = {
 			isa = PBXGroup;
 			children = (
+				12DF8AEB25537F6A00F29B40 /* src */,
 			);
+			sourceTree = "<group>";
+		};
+		12DF8AEB25537F6A00F29B40 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				12DF8AE92553456D00F29B40 /* ReadME.txt */,
+				12DF8AEA25534B7000F29B40 /* Solution.java */,
+			);
+			path = src;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
